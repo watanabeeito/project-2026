@@ -1,5 +1,5 @@
 function startTimer(name) {
   setTimeout(function() {
-    alert(name + " でした！");
+    alert(name + "でした！");
   }, 3000);
 }
