@@ -1,2 +1,11 @@
 h1{text-align: center;
-   font-size: 36px;}
+   font-size: 40px;}
+.attention{
+   margin: 25px auto;
+   width: 800px;
+   background-color: #ffffff;
+   text-align: center;
+   padding: 0.5em 1m;
+   border: double 6px #ffff00;
+}
+
